@@ -1,1 +1,1 @@
-# brew_formulas
+# brew_formulas(or formulae)
