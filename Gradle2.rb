@@ -6,7 +6,7 @@ class Gradle2 < Formula
 
   bottle :unneeded
 
-  depends_on :java => "1.8+"
+  depends_on "openjdk"
 
   option "with-all", "Installs Javadoc, examples, and source in addition to the binaries"
 
